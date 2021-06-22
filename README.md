@@ -3,7 +3,7 @@
 - 💻 I’m currently learning Engineering
 - 💽 I'm currently learning HTML, C++, JAVA....
 - 👓 My hobby is singing, Gaming, Reading and writing......
-- 📫 How to reach me 
+- 📫 How to reach me " github.com/ayush0704 "
 
 <!---
 Ayush0704/Ayush0704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
